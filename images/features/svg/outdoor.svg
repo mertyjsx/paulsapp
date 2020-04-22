@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 114.2 114.2" style="enable-background:new 0 0 114.2 114.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F26527;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#010101;}
+	.st3{fill:#808184;}
+	.st4{fill:#6D6E71;}
+	.st5{fill:#404D66;}
+	.st6{fill:#58595B;}
+	.st7{opacity:0.2;}
+	.st8{fill:#00A79D;}
+</style>
+<title>billboard</title>
+<g>
+	<g id="Layer_1_1_">
+		<circle class="st0" cx="57.1" cy="57.1" r="57.1"/>
+		<circle class="st1" cx="57.3" cy="57.4" r="53.6"/>
+		<path class="st2" d="M111.7,95.2V95C111.7,95,111.7,95,111.7,95.2C111.7,95.1,111.7,95.1,111.7,95.2z"/>
+		<polygon class="st3" points="82,24.1 82,27.2 69.8,27.2 69.8,24.1 42.8,24.1 42.8,27.2 30.5,27.2 30.5,24.1 19.5,24.1 19.5,74.7 
+			93.9,74.7 93.9,24.1 		"/>
+		<polygon class="st4" points="93.9,24.1 82,24.1 82,27.2 69.8,27.2 69.8,24.1 56.7,24.1 56.7,74.7 93.9,74.7 		"/>
+		<rect x="52.6" y="74.7" class="st5" width="7.6" height="13.3"/>
+		<rect x="43.1" y="88" class="st5" width="25.7" height="5.7"/>
+		<polygon class="st6" points="30.5,20.4 30.5,24.1 30.5,27.2 42.8,27.2 42.8,24.1 42.8,20.4 		"/>
+		<polygon class="st6" points="69.8,20.3 69.8,24.1 69.8,27.2 82,27.2 82,24.1 82,20.3 		"/>
+		<rect x="52.5" y="74.7" class="st6" width="7.6" height="13.3"/>
+		<rect x="43.1" y="88" class="st6" width="25.7" height="5.7"/>
+		<g class="st7">
+			<polygon class="st8" points="30.5,23.5 30.5,25.6 30.5,27.2 42.8,27.2 42.8,25.6 42.8,23.5 			"/>
+		</g>
+		<g class="st7">
+			<polygon class="st8" points="69.8,23.5 69.8,25.6 69.8,27.2 82,27.2 82,25.6 82,23.5 			"/>
+		</g>
+	</g>
+</g>
+</svg>

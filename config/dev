@@ -1,0 +1,37 @@
+{
+    "ALL_USERS": "http://localhost:4000/users/",
+    "ADD_USER": "http://localhost:4000/users/add",
+    "ADD_USER_SECURE": "http://localhost:4000/users/",
+    "DELETE_USER": "http://localhost:4000/users/delete",
+
+    "USER_AUTH": "http://localhost:4000/auth",
+    "GET_AUTH_USER": "http://localhost:4000/auth/user",
+
+    "ALL_PRODUCTS": "http://localhost:4000/products/",
+    "ADD_PRODUCT": "http://localhost:4000/products/add",
+    "DELETE_PRODUCT": "http://localhost:4000/products/delete",
+
+    "ALL_BLOGS": "http://localhost:4000/blogs/",
+    "ADD_BLOG": "http://localhost:4000/blogs/add",
+    "DELETE_BLOG": "http://localhost:4000/blogs/delete",
+
+    "ALL_CLIENTS": "http://localhost:4000/clients/",
+    "ADD_CLIENT": "http://localhost:4000/clients/add",
+    "DELETE_CLIENT": "http://localhost:4000/clients/delete",
+
+    "ALL_TESTIMONIALS": "http://localhost:4000/testimonials/",
+    "ADD_TESTIMONIAL": "http://localhost:4000/testimonials/add",
+    "DELETE_TESTIMONIAL": "http://localhost:4000/testimonials/delete",
+
+    "ALL_WIDGETS": "http://localhost:4000/widgets/",
+    "ADD_WIDGET": "http://localhost:4000/widgets/add",
+    "DELETE_WIDGET": "http://localhost:4000/widgets/delete",
+
+    "ALL_FEATURES": "http://localhost:4000/features/",
+
+    "CONTACT_FORM": "http://localhost:4000/contact",
+
+    "NEWSLETTER_FORM": "http://localhost:4000/newsletter",
+
+    "SERVER_BASE_URL": "http://localhost:3000/"
+}

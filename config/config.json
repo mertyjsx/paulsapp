@@ -1,0 +1,37 @@
+{
+    "ALL_USERS": "https://rs-digital-signage-admin-v2.herokuapp.com/users/",
+    "ADD_USER": "https://rs-digital-signage-admin-v2.herokuapp.com/users/add",
+    "ADD_USER_SECURE": "https://rs-digital-signage-admin-v2.herokuapp.com/users/",
+    "DELETE_USER": "https://rs-digital-signage-admin-v2.herokuapp.com/users/delete",
+
+    "USER_AUTH": "https://rs-digital-signage-admin-v2.herokuapp.com/auth",
+    "GET_AUTH_USER": "https://rs-digital-signage-admin-v2.herokuapp.com/auth/user",
+
+    "ALL_PRODUCTS": "https://rs-digital-signage-admin-v2.herokuapp.com/products/",
+    "ADD_PRODUCT": "https://rs-digital-signage-admin-v2.herokuapp.com/products/add",
+    "DELETE_PRODUCT": "https://rs-digital-signage-admin-v2.herokuapp.com/products/delete",
+
+    "ALL_BLOGS": "https://rs-digital-signage-admin-v2.herokuapp.com/blogs/",
+    "ADD_BLOG": "https://rs-digital-signage-admin-v2.herokuapp.com/blogs/add",
+    "DELETE_BLOG": "https://rs-digital-signage-admin-v2.herokuapp.com/blogs/delete",
+
+    "ALL_CLIENTS": "https://rs-digital-signage-admin-v2.herokuapp.com/clients/",
+    "ADD_CLIENT": "https://rs-digital-signage-admin-v2.herokuapp.com/clients/add",
+    "DELETE_CLIENT": "https://rs-digital-signage-admin-v2.herokuapp.com/clients/delete",
+
+    "ALL_TESTIMONIALS": "https://rs-digital-signage-admin-v2.herokuapp.com/testimonials/",
+    "ADD_TESTIMONIAL": "https://rs-digital-signage-admin-v2.herokuapp.com/testimonials/add",
+    "DELETE_TESTIMONIAL": "https://rs-digital-signage-admin-v2.herokuapp.com/testimonials/delete",
+
+    "ALL_WIDGETS": "https://rs-digital-signage-admin-v2.herokuapp.com/widgets/",
+    "ADD_WIDGET": "https://rs-digital-signage-admin-v2.herokuapp.com/widgets/add",
+    "DELETE_WIDGET": "https://rs-digital-signage-admin-v2.herokuapp.com/widgets/delete",
+
+    "ALL_FEATURES": "https://rs-digital-signage-admin-v2.herokuapp.com/features/",
+
+    "CONTACT_FORM": "https://rs-digital-signage-admin-v2.herokuapp.com/contact",
+
+    "NEWSLETTER_FORM": "https://rs-digital-signage-admin-v2.herokuapp.com/newsletter",
+
+    "SERVER_BASE_URL": "https://rs-digital-signage-admin-v2.herokuapp.com/"
+}
