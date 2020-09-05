@@ -37,7 +37,7 @@
     "next-redux-wrapper": "^3.0.0-alpha.3",
     "next-routes": "^1.4.2",
     "next-seo": "^2.0.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "react": "^16.8.6",
     "react-accessible-accordion": "^3.0.0",
     "react-bootstrap": "^1.0.0",
